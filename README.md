@@ -12,7 +12,7 @@ The goal of this project is to:
 
 ## Data Source
 
-* `data/awesome_chocolates_sales.csv`
+* Awesome-Chocolates-Sales-sample-data.xlsx`
 
 ## Tools Used
 
